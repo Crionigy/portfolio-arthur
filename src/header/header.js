@@ -21,7 +21,7 @@ function getModalStyle() {
 
 const useStyles = makeStyles((theme) => ({
   paper: {
-    position: 'absolute',
+    position: 'relative',
     width: 400,
     backgroundColor: theme.palette.background.paper,
     border: '2px solid #000',
@@ -59,7 +59,7 @@ function Header() {
     <div className="Header">
         <h3 className="name">Arthur Hassan Souki</h3>
         <h3>Just another Developer!</h3>
-        <h3 onClick={handleOpen}>
+        <h3 className="about" onClick={handleOpen}>
           About
         </h3>
         <Modal

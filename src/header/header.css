@@ -11,3 +11,7 @@ h3 {
     width: 30%;
     text-align: center;
 }
+
+.about {
+    cursor: pointer;
+}
