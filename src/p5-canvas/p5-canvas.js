@@ -14,7 +14,7 @@ let randomAnimation = getRandomInt(1, 4);
 let textX = (canvasWidth / 2);
 let textY = (canvasHeight / 2);
 
-export default (props) => {
+export default function P5canvas(props) {
 
 	//#region Name
 	function drawName(p5) {
@@ -60,7 +60,7 @@ export default (props) => {
 			default:
 				break;
 		}
-		drawName(p5);
+		//drawName(p5);
 	};
 	//#endregion
 
