@@ -11,11 +11,11 @@ let canvasWidth = window.innerWidth;
 //Get a random number equals {min} or less than {max}
 let randomAnimation = getRandomInt(1, 4);
 
-let textX = (canvasWidth / 2);
-let textY = (canvasHeight / 2);
+// let textX = (canvasWidth / 2);
+// let textY = (canvasHeight / 2);
 
 export default function P5canvas(props) {
-
+	/*
 	//#region Name
 	function drawName(p5) {
 		p5.fill('rgb(0,0,0)');
@@ -25,6 +25,7 @@ export default function P5canvas(props) {
 		p5.text('Arthur Hassan', textX, textY);
 	}
 	//#endregion
+	*/
 
 	//#region Setup & Drawn
 	const setup = (p5, canvasParentRef) => {

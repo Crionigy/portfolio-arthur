@@ -1,6 +1,7 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Modal from '@material-ui/core/Modal';
+import Footer from '../footer/footer';
 
 import './header.css';
 
@@ -51,6 +52,7 @@ function Header() {
       <p id="simple-modal-description">
         Duis mollis, est non commodo luctus, nisi erat porttitor ligula.
       </p>
+      <Footer />
     </div>
   );
 
