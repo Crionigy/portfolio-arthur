@@ -2,7 +2,7 @@ import React from "react";
 import Sketch from "react-p5";
 import {setupNoodles, drawNoodles} from "../controllers/noodlesController.js"
 import {setupFlow, drawFlowField, drawFlowCircle} from "../controllers/flowController.js"
-import {getRandomInt} from "../controllers/randomAnimationController"
+import {getRandomInt} from "../util/randomNumber"
 
 //Values use to set the size of the canvas on the screen
 let canvasHeight = window.innerHeight - 100;
