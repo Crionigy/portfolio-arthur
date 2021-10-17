@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-arthur/static/css/main.0b6c49b2.chunk.css",
-    "main.js": "/portfolio-arthur/static/js/main.416cae02.chunk.js",
-    "main.js.map": "/portfolio-arthur/static/js/main.416cae02.chunk.js.map",
+    "main.css": "/portfolio-arthur/static/css/main.61f923cf.chunk.css",
+    "main.js": "/portfolio-arthur/static/js/main.496fb7d3.chunk.js",
+    "main.js.map": "/portfolio-arthur/static/js/main.496fb7d3.chunk.js.map",
     "runtime-main.js": "/portfolio-arthur/static/js/runtime-main.c32510c4.js",
     "runtime-main.js.map": "/portfolio-arthur/static/js/runtime-main.c32510c4.js.map",
     "static/js/2.bd591891.chunk.js": "/portfolio-arthur/static/js/2.bd591891.chunk.js",
     "static/js/2.bd591891.chunk.js.map": "/portfolio-arthur/static/js/2.bd591891.chunk.js.map",
     "index.html": "/portfolio-arthur/index.html",
-    "static/css/main.0b6c49b2.chunk.css.map": "/portfolio-arthur/static/css/main.0b6c49b2.chunk.css.map",
+    "static/css/main.61f923cf.chunk.css.map": "/portfolio-arthur/static/css/main.61f923cf.chunk.css.map",
     "static/js/2.bd591891.chunk.js.LICENSE.txt": "/portfolio-arthur/static/js/2.bd591891.chunk.js.LICENSE.txt",
     "static/media/github.04be58c1.svg": "/portfolio-arthur/static/media/github.04be58c1.svg",
     "static/media/instagram.6ed2cb52.svg": "/portfolio-arthur/static/media/instagram.6ed2cb52.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.c32510c4.js",
     "static/js/2.bd591891.chunk.js",
-    "static/css/main.0b6c49b2.chunk.css",
-    "static/js/main.416cae02.chunk.js"
+    "static/css/main.61f923cf.chunk.css",
+    "static/js/main.496fb7d3.chunk.js"
   ]
 }
